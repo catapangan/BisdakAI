@@ -1,6 +1,3 @@
-[submodule "ai8x-training"]
-	path = ai8x-training
-	url = https://github.com/catapangan/ai8x-training
 [submodule "ai8x-synthesis"]
 	path = ai8x-synthesis
 	url = https://github.com/catapangan/ai8x-synthesis
